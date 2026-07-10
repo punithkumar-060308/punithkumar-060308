@@ -63,9 +63,11 @@ const punithKumar = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=punithkumar-060308&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=cdd6f4&bg_color=1a1b27&hide_border=false&count_private=true&include_all_commits=true" alt="Punith's GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=punithkumar-060308&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=cdd6f4&bg_color=1a1b27&hide_border=false" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punithkumar-060308&theme=nord" width="100%" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=punithkumar-060308&theme=nord" height="180em" alt="Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=punithkumar-060308&theme=nord" height="180em" alt="Top Languages" />
 
 </div>
 
