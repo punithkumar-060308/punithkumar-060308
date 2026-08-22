@@ -25,7 +25,7 @@ const punithKumar = {
   title:            "AI/ML Undergraduate | GitHub Explorer | Hackathon Learner",
   stack: {
     languages:      ["Python", "C"],
-    frontend:       ["HTML", "CSS"],
+    frontend:       ["HTML", "CSS","Java Script" "React"],
     devTools:       ["Git", "GitHub", "VS Code"],
   },
   launchedProjects: "Coming soon — stay tuned! 🚧",
@@ -47,10 +47,10 @@ const punithKumar = {
 <div align="center">
 
 ### 💬 Languages
-[![Languages](https://skillicons.dev/icons?i=python,c&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c,js&theme=dark)](https://skillicons.dev)
 
 ### 🌐 Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,react&theme=dark)](https://skillicons.dev)
 
 ### 🔧 Dev Tools
 [![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
