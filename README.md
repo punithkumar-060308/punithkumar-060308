@@ -52,6 +52,9 @@ const punithKumar = {
 ### 🌐 Frontend
 [![Frontend](https://skillicons.dev/icons?i=html,css,react&theme=dark)](https://skillicons.dev)
 
+### ⚙️ Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+
 ### 🔧 Dev Tools
 [![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
