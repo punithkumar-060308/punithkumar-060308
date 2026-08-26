@@ -26,7 +26,7 @@ const punithKumar = {
   stack: {
     languages:      ["Python", "C"],
     frontend:       ["HTML", "CSS","Java Script" "React"],
-    backend:        ["Node.js
+    backend:        ["Node.js"]
     devTools:       ["Git", "GitHub", "VS Code"],
   },
   launchedProjects: "Coming soon — stay tuned! 🚧",
