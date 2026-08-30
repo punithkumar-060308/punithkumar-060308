@@ -97,7 +97,7 @@ const punithKumar = {
 
 <img src="https://github-profile-trophy.vercel.app/?username=punithkumar-060308&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
 
-</div> -->
+</div> 
 
 ---
 
@@ -107,7 +107,7 @@ const punithKumar = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=punithkumar-060308&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true" alt="Punith's Activity Graph" />
 
-</div>
+</div>-->
 
 ---
 
