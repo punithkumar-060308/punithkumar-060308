@@ -54,7 +54,10 @@ const punithKumar = {
 [![Frontend](https://skillicons.dev/icons?i=html,css,react&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
+
+### 🗄️ Database
+[![Database](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
 
 ### 🔧 Dev Tools
 [![Dev Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
@@ -91,7 +94,7 @@ const punithKumar = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=punithkumar-060308&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=punithkumar-060308&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -101,7 +104,7 @@ const punithKumar = {
 
 <div align="center">
 
-[![Punith's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=punithkumar-060308&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=punithkumar-060308&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true" alt="Punith's Activity Graph" />
 
 </div>
 
