@@ -24,7 +24,7 @@
 const punithKumar = {
   title:            "AI/ML Undergraduate | GitHub Explorer | Hackathon Learner",
   stack: {
-    languages:      ["Python", "C"],
+    languages:      ["Python", "C","Java"],
     frontend:       ["HTML", "CSS","Java Script" "React"],
     backend:        ["Node.js", "Express.js"],
     database:       ["MongoDB"],
