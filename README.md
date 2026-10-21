@@ -43,8 +43,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="PUNITH KUMAR B S GitHub proof metrics" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4" />
+  <img src="https://www.gitskins.com/api/section/stats?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4" />
 </picture>
 </p>
 
@@ -54,8 +54,8 @@
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4&repos=punithkumar-060308%2FBMSCE-ACM-STUDENT-CHAPTER-WEBSITE&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4&repos=punithkumar-060308%2FBMSCE-ACM-STUDENT-CHAPTER-WEBSITE&v=recruiter-projects-1&mode=dark" width="100%" alt="PUNITH KUMAR B S selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4" />
+  <img src="https://www.gitskins.com/api/section/projects?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4" />
 </picture>
 </td>
 <td width="42%" valign="top">
@@ -77,8 +77,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="PUNITH KUMAR B S technology stack" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4" />
+  <img src="https://www.gitskins.com/api/section/stack?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4" />
 </picture>
 </p>
 
@@ -96,8 +96,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="PUNITH KUMAR B S contribution activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4&year=2026" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4&year=2026" />
 </picture>
 </p>
 
