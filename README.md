@@ -92,14 +92,14 @@
 </tr>
 </table>
 
-<h2>Consistency signal</h2>
+<!-- <h2>Consistency signal</h2>
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4&year=2026" />
   <img src="https://www.gitskins.com/api/section/heatmap?username=punithkumar-060308&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F236218573%3Fu%3Db24a34b9ef9e785e6cc4f40cb583a547d8754d7c%26v%3D4&year=2026" />
 </picture>
-</p>
+</p> -->
 
 <hr />
 
