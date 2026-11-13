@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · punithkumar-060308</sub></p>
 <h1>PUNITH KUMAR B S</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full-stack engineer</h2>
 <p>I’m an AIML student at BMSCE passionate about building intelligent systems and solving real-world problems through code</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Banglore</sub></p>
