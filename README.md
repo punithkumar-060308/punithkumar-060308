@@ -48,7 +48,7 @@
 </picture>
 </p>
 
-<h2>Selected work</h2>
+<h2>Selected works</h2>
 
 <table width="100%">
 <tr>
