@@ -8,7 +8,7 @@
 <h2>Full-stack engineer</h2>
 <p>I’m an AIML student at BMSCE passionate about building intelligent systems and solving real-world problems through code</p>
 <p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Banglore</sub></p>
+
 <p><a href="https://github.com/punithkumar-060308">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
